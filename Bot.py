@@ -34,12 +34,6 @@ def playPianoTiles():
 def main():
     playPianoTiles()
 
-<<<<<<< HEAD
 main()
 
 #displayMouseInfo()
-=======
-#main()
-
-displayMouseInfo()
->>>>>>> main
